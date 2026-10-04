@@ -1,0 +1,1 @@
+Fraudbyte is a credit card fraud detection app that takes inputs like your credit card details and purchases and flags reports in the form of tables to showcase whether something suspicious or illegal is going on.
